@@ -1,0 +1,1 @@
+print("Data AI Learning Journey Started")
